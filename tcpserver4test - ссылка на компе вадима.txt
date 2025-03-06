@@ -1,0 +1,4 @@
+ссылка на на моем раб компе создаются проекты Visual Studio
+
+
+C:\Users\test\source\repos\tcpserver4test
